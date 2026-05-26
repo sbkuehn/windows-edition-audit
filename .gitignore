@@ -1,0 +1,13 @@
+# Audit output files - these may contain sensitive environment data
+*.csv
+
+# Allow the sample computer list but ignore any real ones placed alongside it
+computers-*.txt
+!computers.txt
+
+# Windows
+Thumbs.db
+Desktop.ini
+
+# macOS
+.DS_Store

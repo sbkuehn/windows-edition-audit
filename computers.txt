@@ -1,0 +1,11 @@
+# Sample computer list for Get-WindowsEditionAudit.ps1
+# Add one computer name per line. Lines starting with # are ignored by PowerShell's Get-Content
+# but kept here for reference only. Remove or replace these entries before running.
+#
+# Author: Shannon Eldridge-Kuehn
+# Date:   2026-05-25
+
+DESKTOP-001
+DESKTOP-002
+LAPTOP-001
+SERVER-001
